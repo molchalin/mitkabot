@@ -1,0 +1,5 @@
+bin/
+config.yml
+etc/
+vendor/
+mitka.yml
